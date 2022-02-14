@@ -1,0 +1,22 @@
+C:\Users\MARGARITA\Desktop\cuchi cuchi\bin\Debug\cuchi cuchi.exe.config
+C:\Users\MARGARITA\Desktop\cuchi cuchi\bin\Debug\cuchi cuchi.exe
+C:\Users\MARGARITA\Desktop\cuchi cuchi\bin\Debug\cuchi cuchi.pdb
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.AssemblyReference.cache
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi_cuchi.Form1.resources
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi_cuchi.Properties.Resources.resources
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.GenerateResource.cache
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.CoreCompileInputs.cache
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi cuchi.exe
+C:\Users\MARGARITA\Desktop\cuchi cuchi\obj\Debug\cuchi cuchi.pdb
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\bin\Debug\cuchi cuchi.exe.config
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\bin\Debug\cuchi cuchi.exe
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\bin\Debug\cuchi cuchi.pdb
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.AssemblyReference.cache
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi_cuchi.Form1.resources
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi_cuchi.Properties.Resources.resources
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.GenerateResource.cache
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi cuchi.csproj.CoreCompileInputs.cache
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi cuchi.exe
+C:\Users\MARGARITA\Desktop\aa\cuchi cuchi\obj\Debug\cuchi cuchi.pdb
